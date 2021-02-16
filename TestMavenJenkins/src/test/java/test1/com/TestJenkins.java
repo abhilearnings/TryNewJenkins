@@ -12,6 +12,7 @@ public class TestJenkins {
 		System.out.println("Try SCM polling");
 		System.out.println("Try SCM polling");
 		System.out.println("Try SCM polling Try now");
+		System.out.println("Try SCM polling Try now 2 times");
 	}
 
 }
