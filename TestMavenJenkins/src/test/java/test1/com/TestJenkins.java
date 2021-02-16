@@ -6,7 +6,7 @@ public class TestJenkins {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Try SCM polling");
-
+		System.out.println("Try SCM polling");
 	}
 
 }
