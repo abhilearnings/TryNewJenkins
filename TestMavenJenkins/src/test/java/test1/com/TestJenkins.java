@@ -7,6 +7,7 @@ public class TestJenkins {
 		
 		System.out.println("Try SCM polling");
 		System.out.println("Try SCM polling");
+		System.out.println("Try SCM polling");
 	}
 
 }
